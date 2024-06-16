@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fina.Api", "Fina.Api\Fina.Api.csproj", "{4E6BF0D3-7070-4461-9C65-4C7169047B7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fina.Web", "Fina.Web\Fina.Web.csproj", "{EE544080-3545-46E7-8458-4C65AA10113A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fina.Shared", "Fina.Shared\Fina.Shared.csproj", "{314E0343-B89E-48CB-932B-88C900FC620D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E6BF0D3-7070-4461-9C65-4C7169047B7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E6BF0D3-7070-4461-9C65-4C7169047B7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E6BF0D3-7070-4461-9C65-4C7169047B7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E6BF0D3-7070-4461-9C65-4C7169047B7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE544080-3545-46E7-8458-4C65AA10113A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE544080-3545-46E7-8458-4C65AA10113A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE544080-3545-46E7-8458-4C65AA10113A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE544080-3545-46E7-8458-4C65AA10113A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{314E0343-B89E-48CB-932B-88C900FC620D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{314E0343-B89E-48CB-932B-88C900FC620D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{314E0343-B89E-48CB-932B-88C900FC620D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{314E0343-B89E-48CB-932B-88C900FC620D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB7E0938-6E75-42BB-841D-067FD557C3CF}
+	EndGlobalSection
+EndGlobal
